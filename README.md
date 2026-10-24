@@ -29,7 +29,7 @@ This project is a console-based game where a player plays against the computer. 
 5. Check the final scores and winner in the console.
 
 ## Live Preview
- https://mahbubanowrin.github.io/odin-rock-paper-scissors/
+[View the live website](https://mahbubanowrin.github.io/odin-rock-paper-scissors/)
 
 ## Author
 
